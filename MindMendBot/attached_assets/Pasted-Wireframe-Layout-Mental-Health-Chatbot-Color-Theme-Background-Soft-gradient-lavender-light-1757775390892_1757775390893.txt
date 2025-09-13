@@ -1,0 +1,84 @@
+Wireframe Layout – Mental Health Chatbot
+🎨 Color Theme
+
+Background: Soft gradient (lavender → light blue)
+
+Chat bubbles:
+
+User = soft green (#A8E6CF)
+
+Bot = light gray/white (#F5F5F5)
+
+Buttons: calming blue (#4A90E2) with rounded corners
+
+📱 Screen Structure
+1. Top App Bar
+
+Title: Mental Health Support (centered, bold, calm color).
+
+Right corner: ℹ️ Info button → shows crisis support + app disclaimer.
+
+2. Crisis Banner (below app bar)
+
+Small yellow strip (not too tall).
+
+Text:
+
+⚠️ Crisis Support — If you’re in immediate crisis, please contact 988 or 911
+
+Always visible but non-intrusive.
+
+3. Chat Area (Main Body, 70–75% screen height)
+
+Scrollable conversation list.
+
+Chat bubbles:
+
+User (right-aligned, green)
+
+Bot (left-aligned, gray/white with bot icon 🤖)
+
+Each bubble: rounded corners, slight shadow.
+
+4. Bottom Input Bar
+
+Rounded white input field: “Type your message…”
+
+To the right:
+
+Mic button 🎤 (circle button, blue background, white icon).
+
+Camera button 📷 (same style).
+
+Send button ➡️ (blue pill button).
+
+(Mic/Camera toggle status will change the button color: Gray = Disabled, Blue = Active)
+
+🔹 Example Layout (ASCII wireframe)
+ -------------------------------------------------
+|  Mental Health Support             [ ℹ️ ]       |
+ -------------------------------------------------
+| ⚠️ Crisis Support: If you’re in crisis call 988 |
+ -------------------------------------------------
+|                                                 |
+|   🤖 Bot: Hello, I’m here to support you.       |
+|                                                 |
+|   You: I feel anxious today.                    |
+|                                                 |
+|   🤖 Bot: I understand. Can you tell me more?   |
+|                                                 |
+|            (scrollable chat area)               |
+|                                                 |
+ -------------------------------------------------
+| [ Type your message…             ] [🎤][📷][➡️] |
+ -------------------------------------------------
+
+✅ Key Benefits
+
+Chat-first focus → Most of the space shows the conversation.
+
+Minimal clutter → Crisis banner is small but visible.
+
+Clean input controls → Rounded buttons, clear icons.
+
+Soothing colors → Calming and professional.
