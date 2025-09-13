@@ -1,8 +1,0 @@
-Add a new endpoint for processing user messages
-
-Add a POST endpoint `/process_message` to the Flask backend for handling user input.
-
-Replit-Commit-Author: Agent
-Replit-Commit-Session-Id: f92eeb85-3ff2-4483-b2ea-82f0cd9cf227
-Replit-Commit-Checkpoint-Type: full_checkpoint
-Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/cbb76236-728c-4f1e-88e5-d50ccb8e0f9c/f92eeb85-3ff2-4483-b2ea-82f0cd9cf227/WX4xu2B
